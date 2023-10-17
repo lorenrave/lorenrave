@@ -37,4 +37,4 @@
 
 <a href="https://linkedin.com/in/lorena-ravera/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lorena Ravera" height="30" width="40" />linkedin</a>
 
-<a href="mailto:lore_ravera@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Lorena Ravera" height="30" width="40" />lore_ravera689@hotmail.com</a>
+<a href="mailto:lore_ravera@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Lorena Ravera" height="30" width="40" />lore_ravera@hotmail.com</a>
