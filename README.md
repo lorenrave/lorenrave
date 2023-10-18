@@ -1,18 +1,20 @@
 <h1 align="center">¡Hola! 👋, me llamo Lorena Ravera</h1>
 <h3 align="center">Soy Data scientist</h3>
 
- ## Apasionada por la tecnología 💻  motivada a convertir datos en conocimiento para tomar decisiones fundamentadas en ellos.📊.
+ #### Apasionada por la tecnología 💻  motivada a convertir datos en conocimiento para tomar decisiones fundamentadas en ellos.📊.
  
- Siempre estoy en la búsqueda de mejorar mis habilidades y conocimientos para lograr resultados aún más óptimos.
+ 
 
  
 
  💬 Algunos datos sobre mi:
-   * 🔭 Actualmente realizando proyectos para seguir en crecimiento aplicando nuevos conocimientos
+   * 🔭 Actualmente realizando proyectos para seguir en crecimiento aplicando nuevos conocimientos.
+   * ✨ Siempre estoy en la búsqueda de mejorar mis habilidades y conocimientos para lograr resultados aún más óptimos.
    * 💼 Estoy abierta a oportunidades laborales relacionadas con Data engineer y Análisis de datos.
-   * 👯 Me gusta socializar y trabajar en equipo
-   * 👾 Juego videojuegos
-   * 😻 Me encantan los gatos
+   * 🌹 Los lenguajes de programación que me hicieron enamorar del mundo IT son Java y Python.
+   * 👯 Me gusta socializar y trabajar en equipo.
+   * 👾 Juego videojuegos.
+   * 😻 Me encantan los gatos.
 
 
 
