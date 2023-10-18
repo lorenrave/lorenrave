@@ -4,13 +4,12 @@
  ## Apasionada por la tecnología 💻  motivada a convertir datos en conocimiento para tomar decisiones fundamentadas en ellos.📊.
  
  Siempre estoy en la búsqueda de mejorar mis habilidades y conocimientos para lograr resultados aún más óptimos.
- 
- En este momento, estoy en la búsqueda🔎 de un entorno de trabajo que fomente mi crecimiento y experiencia 💾. 
 
  
 
  💬 Algunos datos sobre mi:
-   * 🔭 Actualmente realizando proyectos para poder seguir en crecimiento
+   * 🔭 Actualmente realizando proyectos para seguir en crecimiento aplicando nuevos conocimientos
+   * 💼 Estoy abierta a oportunidades laborales relacionadas con Data engineer y Análisis de datos.
    * 👯 Me gusta socializar y trabajar en equipo
    * 👾 Juego videojuegos
    * 😻 Me encantan los gatos
