@@ -10,7 +10,7 @@
  💬 Algunos datos sobre mi:
    * 🔭 Actualmente realizando proyectos para seguir en crecimiento aplicando nuevos conocimientos.
    * ✨ Siempre estoy en la búsqueda de mejorar mis habilidades y conocimientos para lograr resultados aún más óptimos.
-   * 💼 Estoy abierta a oportunidades laborales relacionadas con Data engineer y Análisis de datos.
+   * 💼 Estoy abierta a oportunidades laborales relacionadas con Data engineer, Análisis de datos y Machine learning.
    * 🌹 Los lenguajes de programación que me hicieron enamorar del mundo IT son Java y Python.
    * 👯 Me gusta socializar y trabajar en equipo.
    * 👾 Juego videojuegos.
