@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! 👋, me llamo Lorena Ravera</h1>
-<h3 align="center">Soy Data scientist</h3>
+<h1 align="center">¡Hello! 👋, my name is Lorena </h1>
+<h3 align="center">I am a data scientist</h3>
 
  #### Passionate about technology 💻 motivated to convert data into knowledge to make decisions based on it.📊.
  
